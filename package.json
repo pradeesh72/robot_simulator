@@ -1,0 +1,19 @@
+{
+  "name": "javascript",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node start.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.8",
+    "@types/jest": "^27.4.0",
+    "jest": "^27.4.7"
+  }
+}
